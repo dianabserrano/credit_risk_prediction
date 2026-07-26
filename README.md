@@ -15,7 +15,7 @@ This project demonstrates an end-to-end Machine Learning workflow by comparing t
 ### ROC Curve
 
 <p align="center">
-<img src="images/roc_curve.png" width="650">
+<img src="roc_curve.png" width="650">
 </p>
 
 The ROC curve shows that **Random Forest** achieved a higher discrimination capability (**AUC = 0.787**) than **Logistic Regression (AUC = 0.724)**.
@@ -25,7 +25,7 @@ The ROC curve shows that **Random Forest** achieved a higher discrimination capa
 ### Confusion Matrices
 
 <p align="center">
-<img src="images/confusion_matrix.png" width="850">
+<img src="confusion_matrix.png" width="850">
 </p>
 
 The confusion matrices illustrate the trade-off between identifying risky customers and minimizing false alarms.
@@ -34,7 +34,7 @@ The confusion matrices illustrate the trade-off between identifying risky custom
 ### Performance Metrics
 
 <p align="center">
-<img src="images/metrics.png" width="600">
+<img src="metrics.png" width="600">
 </p>
 
 Random Forest achieved the highest overall predictive performance, while Logistic Regression obtained the highest Recall for the Default class.
